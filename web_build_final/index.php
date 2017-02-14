@@ -3,10 +3,11 @@
     <head>
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <title>XGARBAGE LAB</title>
-        <link rel="stylesheet" href="css/font.css">
-        <link rel="stylesheet" href="css/materialize.css">
-        <link rel="stylesheet" href="css/animate.css">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.98.0/css/materialize.css">
+        <link href="http://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.css" >
+        <link rel="stylesheet" href="css/font.css">
+        <link rel="stylesheet" href="css/animate.css">
         <link rel="stylesheet" href="css/main.css">
         <link rel="icon" href="images/favicon.png">
     </head>
@@ -126,7 +127,8 @@
             <p class="center white-text" style="padding:1% 0 0 0">All rights reserved &copy; 2016 xgarbagelab.com</p>
        </footer>
       <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
-      <script src="js/materialize.js"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.98.0/js/materialize.min.js"></script>
       <script src="js/jquery.textillate.js"></script>
       <script src="js/jquery.lettering.js"></script>
       <script src="js/main.js"></script>
